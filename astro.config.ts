@@ -24,7 +24,7 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
 // Defina o site e o base para o GitHub Pages
 export default defineConfig({
   site: 'https://zerezeze.github.io',
-  base: '/poc-accelerate-github-pages',
+  
 
   output: 'static',
 
